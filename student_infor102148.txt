@@ -1,0 +1,5 @@
+Ma sinh vien: SV001
+Ho va ten: Nguyen Quang Huy
+Lop: CNTT01
+Khoa: Cong nghe thong tin
+
